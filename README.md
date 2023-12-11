@@ -83,5 +83,5 @@ Link: http://localhost:8080/
 <em>Uncheck <b>Enable project specific settings</b> option</em>
 
 <p align="center">
-  <img src="https://i.imgur.com/8FWdGh2.png" width="400" alt="Spring Security Database Authentication Image" />
+  <img src="https://i.imgur.com/M5DAUtM.png" width="400" alt="Spring Security Database Authentication Image" />
 </p>
