@@ -38,10 +38,6 @@ Link: https://console.cloud.google.com/apis/dashboard
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/jgO8G3O.png" width="400" alt="Create Credentials Image" />
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/Ot7K2fk.png" width="400" alt="Create Credentials Image" />
 </p>
 
